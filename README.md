@@ -3,3 +3,4 @@ realizado por :
 Breiner Rosellon
 Joas Alvarez
 Ramses Sepulveda
+Luis Miranda 
